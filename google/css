@@ -1,0 +1,5 @@
+table {
+    border-collapse:separate;
+    width:1400px;
+    height:10px;
+}
