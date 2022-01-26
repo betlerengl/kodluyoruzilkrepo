@@ -1,0 +1,20 @@
+back {
+    background-color:rgb(139, 131, 61);
+}
+
+h1, h2, h3 {
+    color:rgb(126, 17, 75);
+}
+
+P {
+    font-family:fantasy;
+}
+header {
+    text-align:center;
+}
+article {
+    text-align:left;
+}
+ul {
+    text-align:center
+}
